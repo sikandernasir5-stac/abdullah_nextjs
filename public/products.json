@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Purple bags",
+        "image":"https://res.cloudinary.com/dufk0exlz/image/upload/v1789041681/Screenshot_2026-04-15_140651_exaise.png"
+    },
+    
+    {
+        "id":2,
+        "title":"Purple bags",
+        
+        "image":"https://res.cloudinary.com/dufk0exlz/image/upload/v1789041681/Screenshot_2026-04-15_140651_exaise.png"
+    },
+    {
+        "id":3,
+        "title":"Purple bags",
+        
+        "image":"https://res.cloudinary.com/dufk0exlz/image/upload/v1789041681/Screenshot_2026-04-15_140651_exaise.png"
+    },
+    {
+        "id":4,
+        "title":"Purple bags",
+        
+        "image":"https://res.cloudinary.com/dufk0exlz/image/upload/v1789041681/Screenshot_2026-04-15_140651_exaise.png"
+    },
+    {
+        "id":5,
+        "title":"Purple bags",
+        
+        "image":"https://res.cloudinary.com/dufk0exlz/image/upload/v1789041681/Screenshot_2026-04-15_140651_exaise.png"
+    }
+]
